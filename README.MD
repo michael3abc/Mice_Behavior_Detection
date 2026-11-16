@@ -60,8 +60,8 @@
 ## 環境與安裝
 1. **Clone 專案**
    ```bash
-    git clone https://github.com/michael3abc/Mice_Tracking_Project.git \
-    && cd Mice_Tracking_Project
+   git clone https://github.com/michael3abc/Mice_Behavior_Detection.git
+   cd Mice_Behavior_Detection
    ```
 
 2. **建立虛擬環境並安裝依賴**
